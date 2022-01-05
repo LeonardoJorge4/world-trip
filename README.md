@@ -52,7 +52,7 @@ Necessário realizar as instalações:
 
 ```bash
 # Execute o comando git clone para realizar o clone do repositório
-$ git clone https://github.com/nelsonsantosaraujo/worldtrip.git
+$ git clone https://github.com/LeonardoJorge4/world-trip.git
 # Entre na pasta do repositório clonado
 $ cd worldtrip
 ```
@@ -70,18 +70,3 @@ $ yarn json-server --watch server.json --port 3333
 $ yarn dev
 
 ```
-
----
-
-## Licença
-
-Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações.
-
----
-
-## Autor
-
-Feito por Nelson Araújo 👋🏽 Entre em contato!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Nelson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/nelsonsantosaraujo/)
-[![Gmail Badge](https://img.shields.io/badge/-nelsonsantosaraujo@hotmail.com-red?style=flat-square&link=mailto:nelsonsantosaraujo@hotmail.com)](mailto:nelsonsantosaraujo@hotmail.com)
